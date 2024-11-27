@@ -11,7 +11,10 @@ namespace StarterAssets
 #endif
 	public class FirstPersonController : MonoBehaviour
 	{
-		[Header("Player")]
+        private bool _canDoubleJump;      //ADDED LINE
+        private bool _hasDoubleJumped;    //ADDED LINE
+
+        [Header("Player")]
 		[Tooltip("Move speed of the character in m/s")]
 		public float MoveSpeed = 4.0f;
 		[Tooltip("Sprint speed of the character in m/s")]
@@ -216,10 +219,12 @@ namespace StarterAssets
 				{
 					// the square root of H * -2 * G = how much velocity needed to reach desired height
 					_verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
+					_canDoubleJump = true; // Enable double jump          //ADDED LINE
+					_hasDoubleJumped = false;                            //ADDED LINE
 				}
 
-				// jump timeout
-				if (_jumpTimeoutDelta >= 0.0f)
+                // jump timeout
+                if (_jumpTimeoutDelta >= 0.0f)
 				{
 					_jumpTimeoutDelta -= Time.deltaTime;
 				}
@@ -228,6 +233,15 @@ namespace StarterAssets
 			{
 				// reset the jump timeout timer
 				_jumpTimeoutDelta = JumpTimeout;
+
+				// Handle double jump                                       //ADDED LINE
+				if (_input.jump && !_hasDoubleJumped && _canDoubleJump)     //ADDED LINE
+				{                                                           //ADDED LINE
+					_verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);  //ADDED LINE
+					_hasDoubleJumped = true; // Mark double jump as used  //ADDED LINE
+					_canDoubleJump = false; // Disable further jumps      //ADDED LINE
+				}
+
 
 				// fall timeout
 				if (_fallTimeoutDelta >= 0.0f)
@@ -239,12 +253,12 @@ namespace StarterAssets
 				_input.jump = false;
 			}
 
-			// apply gravity over time if under terminal (multiply by delta time twice to linearly speed up over time)
+			//apply gravity over time if under terminal(multiply by delta time twice to linearly speed up over time)
 			if (_verticalVelocity < _terminalVelocity)
 			{
 				_verticalVelocity += Gravity * Time.deltaTime;
 			}
-		}
+        }
 
 		private static float ClampAngle(float lfAngle, float lfMin, float lfMax)
 		{

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\VXZY0\\Final\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|c:\\users\\vxzy0\\final\\assets\\starterassets\\firstpersoncontroller\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\starterassets\\firstpersoncontroller\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|c:\\users\\vxzy0\\final\\assets\\scripts\\resetblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:30:51.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "End switch.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\End switch.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\End switch.cs",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "red.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\red.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\red.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ResetBlock.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\ResetBlock.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\ResetBlock.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "trigger.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\trigger.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\trigger.cs",
@@ -115,12 +132,11 @@
               "RelativeToolTip": "Assets\\scripts\\trigger.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:08:48.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T02:08:48.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SwitchTrigger.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\SwitchTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\SwitchTrigger.cs",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "sceneload.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\sceneload.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\sceneload.cs",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SwitchTrigger.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\SwitchTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\SwitchTrigger.cs",
@@ -155,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ConversationStarter.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\ConversationStarter.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\ConversationStarter.cs",
@@ -166,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "level to level 2.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\level to level 2.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\level to level 2.cs",
@@ -178,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "goto level.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto level.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\goto level.cs",
@@ -190,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "goto title.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto title.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\goto title.cs",
@@ -202,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "goto screen.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto screen.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\goto screen.cs",
