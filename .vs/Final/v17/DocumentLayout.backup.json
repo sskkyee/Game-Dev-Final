@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\VXZY0\\Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|c:\\users\\vxzy0\\final\\assets\\scenes\\conversationstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\conversationstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\VXZY0\\Final\\assets\\scripts\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\ConversationStarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ConversationStarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|c:\\users\\vxzy0\\final\\assets\\scripts\\sceneload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\VXZY0\\Final\\assets\\scripts\\switchtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\VXZY0\\Final\\assets\\scenes\\goto level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\goto level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\SwitchTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\SwitchTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\VXZY0\\Final\\assets\\scenes\\goto title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\goto title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\ConversationStarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\ConversationStarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\VXZY0\\Final\\assets\\scenes\\goto screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\goto screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\level to level 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\level to level 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\level transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\level transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\goto level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\goto title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\npc interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\npc interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\goto screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,79 +59,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConversationStarter.cs",
-              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\ConversationStarter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\ConversationStarter.cs",
-              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\ConversationStarter.cs",
-              "RelativeToolTip": "Assets\\Scenes\\ConversationStarter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "trigger.cs",
+              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\trigger.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\trigger.cs",
+              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\trigger.cs",
+              "RelativeToolTip": "Assets\\scripts\\trigger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T03:24:47.199Z",
+              "WhenOpened": "2024-11-27T02:08:48.017Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConversationStarter.cs",
-              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\ConversationStarter.cs",
-              "RelativeDocumentMoniker": "Assets\\ConversationStarter.cs",
-              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\ConversationStarter.cs",
-              "RelativeToolTip": "Assets\\ConversationStarter.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T03:00:44.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "level transition.cs",
-              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\level transition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\level transition.cs",
-              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\level transition.cs",
-              "RelativeToolTip": "Assets\\Scenes\\level transition.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T23:56:53.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NewBehaviourScript.cs",
-              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\NewBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\NewBehaviourScript.cs",
-              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\NewBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\Scenes\\NewBehaviourScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T23:51:01.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "npc interact.cs",
-              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\npc interact.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\npc interact.cs",
-              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\npc interact.cs",
-              "RelativeToolTip": "Assets\\Scenes\\npc interact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T02:02:57.821Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "interact.cs",
-              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\interact.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\interact.cs",
-              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\interact.cs",
-              "RelativeToolTip": "Assets\\Scenes\\interact.cs",
+              "Title": "SwitchTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\SwitchTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SwitchTrigger.cs",
+              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\SwitchTrigger.cs",
+              "RelativeToolTip": "Assets\\scripts\\SwitchTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:41:10.179Z",
+              "WhenOpened": "2024-11-27T02:05:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sceneload.cs",
+              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\sceneload.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\sceneload.cs",
+              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\scripts\\sceneload.cs",
+              "RelativeToolTip": "Assets\\scripts\\sceneload.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:02:44.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SwitchTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\SwitchTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SwitchTrigger.cs",
+              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\SwitchTrigger.cs",
+              "RelativeToolTip": "Assets\\Scenes\\SwitchTrigger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:34:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversationStarter.cs",
+              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\ConversationStarter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\ConversationStarter.cs",
+              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\ConversationStarter.cs",
+              "RelativeToolTip": "Assets\\Scenes\\ConversationStarter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:41:52.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "level to level 2.cs",
+              "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\level to level 2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\level to level 2.cs",
+              "ToolTip": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\level to level 2.cs",
+              "RelativeToolTip": "Assets\\Scenes\\level to level 2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:59:54.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "goto level.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto level.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\goto level.cs",
@@ -143,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "goto title.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto title.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\goto title.cs",
@@ -155,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "goto screen.cs",
               "DocumentMoniker": "C:\\Users\\VXZY0\\Final\\Assets\\Scenes\\goto screen.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\goto screen.cs",
