@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Blue.unity
     guid: 2bde866337b78bf47a9995ec7a614161
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: dc5cc41c92a2b164bac39b094e44fd53
   m_configObjects: {}
